@@ -1,6 +1,6 @@
-# noted
+# Noted
 
-A Note taking app
+A simple Note taking app developed in FLutter-Firebase environment implementing all CRUD applications using cloud (Firestore) 
 
 ## Getting Started
 
