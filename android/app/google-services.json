@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1010252642757",
+    "project_id": "authenticate-62816",
+    "storage_bucket": "authenticate-62816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010252642757:android:e9c9d7ad95a281971e33ac",
+        "android_client_info": {
+          "package_name": "com.example.noted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010252642757-fi42blvpk1o1i5su3jpohns5jolus7a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcW16_VgSW5e0N823YrhHldSa2PP_iOpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010252642757-fi42blvpk1o1i5su3jpohns5jolus7a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010252642757:android:54b5a1395bf31eb51e33ac",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010252642757-u5psm3ifsu1jmvmb82i4f9qe3s9t6jn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_flutter",
+            "certificate_hash": "0de8996414d0e6a2c07185fe32ba2262183ae2c4"
+          }
+        },
+        {
+          "client_id": "1010252642757-fi42blvpk1o1i5su3jpohns5jolus7a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcW16_VgSW5e0N823YrhHldSa2PP_iOpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010252642757-fi42blvpk1o1i5su3jpohns5jolus7a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
